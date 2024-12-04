@@ -1,2 +1,2 @@
 # Strato.
-EdTech for special needs
+EdTech for students with special needs
